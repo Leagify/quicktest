@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo&#39;s quick test</title>
-    <link>https://leagify.github.io/quicktest/</link>
-    <description>Recent content on Hugo&#39;s quick test</description>
+    <title>Posts on Hugo&#39;s quick test</title>
+    <link>https://leagify.github.io/quicktest/posts/</link>
+    <description>Recent content in Posts on Hugo&#39;s quick test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Aug 2017 22:52:36 -0500</lastBuildDate>
     
-	<atom:link href="https://leagify.github.io/quicktest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leagify.github.io/quicktest/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
