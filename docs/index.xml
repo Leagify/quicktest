@@ -17,7 +17,9 @@
       <pubDate>Wed, 30 Aug 2017 22:52:36 -0500</pubDate>
       
       <guid>https://leagify.github.io/quicktest/posts/my-first-post/</guid>
-      <description>Hello, Hugo.</description>
+      <description>Hello, Hugo.
+ var divElement = document.getElementById(&amp;lsquo;viz1504830938123&amp;rsquo;); var vizElement = divElement.getElementsByTagName(&amp;lsquo;object&amp;rsquo;)[0]; vizElement.style.minWidth=&amp;lsquo;1020px&amp;rsquo;;vizElement.style.maxWidth=&amp;lsquo;1520px&amp;rsquo;;vizElement.style.width=&amp;lsquo;100%&amp;rsquo;;vizElement.style.minHeight=&amp;lsquo;1233px&amp;rsquo;;vizElement.style.maxHeight=&amp;lsquo;2033px&amp;rsquo;;vizElement.style.height=(divElement.offsetWidth*0.75)+&amp;lsquo;px&amp;rsquo;; var scriptElement = document.createElement(&amp;lsquo;script&amp;rsquo;); scriptElement.src = &amp;lsquo;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+This is an HTML embed test.</description>
     </item>
     
   </channel>
