@@ -18,7 +18,7 @@
       
       <guid>https://leagify.github.io/quicktest/posts/my-first-post/</guid>
       <description>Hello, Hugo.
-  var divElement = document.getElementById(&#39;viz1492476045975&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement);   This is an HTML embed test.</description>
+  var divElement = document.getElementById(&#39;viz1504830938123&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.minWidth=&#39;1020px&#39;;vizElement.style.maxWidth=&#39;1520px&#39;;vizElement.style.width=&#39;100%&#39;;vizElement.style.minHeight=&#39;1233px&#39;;vizElement.style.maxHeight=&#39;2033px&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement);   This is an HTML embed test.</description>
     </item>
     
   </channel>
