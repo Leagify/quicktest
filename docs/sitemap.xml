@@ -43,13 +43,13 @@
   </url>
   
   <url>
-    <loc>https://leagify.github.io/quicktest/</loc>
-    <lastmod>2017-09-10T22:01:23-05:00</lastmod>
+    <loc>https://leagify.github.io/quicktest/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://leagify.github.io/quicktest/categories/</loc>
-    <priority>0</priority>
+    <loc>https://leagify.github.io/quicktest/</loc>
+    <lastmod>2017-09-10T22:01:23-05:00</lastmod>
   </url>
   
   <url>
