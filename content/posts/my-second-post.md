@@ -1,7 +1,6 @@
 ---
 title: "My Second Post"
-date: 2017-09-10T20:59:22-05:00
-draft: true
+date: 2017-09-10T21:09:56-05:00
 ---
 
 This is a second post.
