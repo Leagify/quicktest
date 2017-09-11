@@ -1,8 +1,7 @@
 ---
 title: "My Fourth Post"
-date: 2017-09-10T21:39:56-05:00
+date: 2017-09-10T21:46:35-05:00
 type: category01
-draft: true
 ---
 
 Hello, etc.
