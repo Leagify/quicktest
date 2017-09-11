@@ -1,7 +1,6 @@
 ---
 title: "My Second Chart"
-date: 2017-09-10T21:49:11-05:00
-draft: true
+date: 2017-09-10T22:01:23-05:00
 ---
 
 Another chart!
