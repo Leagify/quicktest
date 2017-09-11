@@ -1,7 +1,6 @@
 ---
 title: "My First Chart"
-date: 2017-09-10T21:48:58-05:00
-draft: true
+date: 2017-09-10T21:52:47-05:00
 ---
 
 Chart time!
