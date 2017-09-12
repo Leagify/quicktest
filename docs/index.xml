@@ -6,10 +6,20 @@
     <description>Recent content in Leagify&#39;s quick test on Hugo&#39;s quick test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2017 22:01:23 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2017 19:56:29 -0500</lastBuildDate>
     
 	<atom:link href="https://leagify.github.io/quicktest/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Shortcode</title>
+      <link>https://leagify.github.io/quicktest/posts/my-first-shortcode/</link>
+      <pubDate>Mon, 11 Sep 2017 19:56:29 -0500</pubDate>
+      
+      <guid>https://leagify.github.io/quicktest/posts/my-first-shortcode/</guid>
+      <description>&lt;p&gt;Hello, shortcodes!
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>My Second Chart</title>

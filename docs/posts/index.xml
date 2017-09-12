@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>My First Shortcode</title>
+      <link>https://leagify.github.io/quicktest/posts/my-first-shortcode/</link>
+      <pubDate>Mon, 11 Sep 2017 19:56:29 -0500</pubDate>
+      
+      <guid>https://leagify.github.io/quicktest/posts/my-first-shortcode/</guid>
+      <description>&lt;p&gt;Hello, shortcodes!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>My Fourth Post</title>
       <link>https://leagify.github.io/quicktest/posts/my-fourth-post/</link>
       <pubDate>Sun, 10 Sep 2017 21:46:35 -0500</pubDate>
