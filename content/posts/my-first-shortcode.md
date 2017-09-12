@@ -16,14 +16,8 @@ Youtube :
 
 
 Speakerdeck :
-{{< speakerdeck 5c499bf3c2fe44ae87fa899e227be7a3 >}}
+{{< speakerdeck 5a6e972b555e466ab9db6f96cfac65c4 >}}
 
 Image embed:
-
-{{< figure src="/quicktest/images/chartBanner02.png" title="Chart Banner" >}}
-{{< figure src="/quicktest/images/chartBanner02.png" title="Chart Banner" >}}
-
-{{< figure src="/quicktest/images/chartBanner02.png" title="Chart Banner" >}}
-
 
 {{< figure src="/quicktest/images/chartBanner02.png" title="Chart Banner" >}}
