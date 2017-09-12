@@ -19,4 +19,4 @@ Speakerdeck :
 {{< speakerdeck 5c499bf3c2fe44ae87fa899e227be7a3 >}}
 
 Image embed:
-{{< figure src="/images/chartBanner02.png" title="Chart Banner" >}}
+{{< figure src="/quicktest/images/chartBanner02.png" title="Chart Banner" >}}
