@@ -18,4 +18,5 @@ Youtube :
 Speakerdeck :
 {{< speakerdeck 5c499bf3c2fe44ae87fa899e227be7a3 >}}
 
-![image embed](images/chartBanner02.png)
+Image:
+{{< figure src="/images/chartBanner02.png" title="Steve Francia" >}}
